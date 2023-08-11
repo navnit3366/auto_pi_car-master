@@ -1,0 +1,4 @@
+*.pyc
+
+# Distribution / packaging
+temporary/*
